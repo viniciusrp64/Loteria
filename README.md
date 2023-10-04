@@ -1,6 +1,6 @@
 ## Bing
 
-# README
+### README
 
 ## Descrição
 Este é um programa Java que simula um jogo de apostas chamado "LOTOFÁCIL". O jogo oferece três opções de apostas para o usuário:
